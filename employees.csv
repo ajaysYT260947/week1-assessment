@@ -1,0 +1,10 @@
+id,name,department,salary,city
+1,Arun,Sales,30000.0,Chennai
+2,Priya,HR,45000.0,Chennai
+3,Rahul,IT,60000.0,Bangalore
+4,Divya,IT,,Chennai
+5,Karthik,IT,90000.0,Mumbai
+6,Meena,HR,,Chennai
+7,Suresh,Finance,55000.0,Bangalore
+8,Anitha,Sales,40000.0,Chennai
+1,Arun,Sales,30000.0,Chennai
