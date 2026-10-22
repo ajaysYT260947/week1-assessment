@@ -1,0 +1,58 @@
+[
+{
+    "id": 1,
+    "Name": "Arun",
+    "Department": "Sales",
+    "Salary": 30000,
+    "City": "Chennai"
+},
+{
+    "id": 2,
+    "Name": "Priya",
+    "Department": "HR",
+    "Salary": 45000,
+    "City": "Chennai"
+},
+{
+    "id": 3,
+    "Name": "Rahul",
+    "Department": "IT",
+    "Salary": 60000,
+    "City": "Bangalore"
+},
+{
+    "id": 4,
+    "Name": "Divya",
+    "Department": "IT",
+    "Salary": 75000,
+    "City": "Chennai"
+},
+{
+    "id": 5,
+    "Name": "Karthik",
+    "Department": "Finance",
+    "Salary": 90000,
+    "City": "Mumbai"
+},
+{
+    "id": 6,
+    "Name": "Meena",
+    "Department": "sales",
+    "Salary": 52000,
+    "City": "Bangalore"
+},
+{
+    "id": 7,
+    "Name": "Suresh",
+    "Department": "IT",
+    "Salary": 68000,
+    "City": "Chennai"
+},
+{
+    "id": 8,
+    "Name": "Anitha",
+    "Department": "HR",
+    "Salary": 48000,
+    "City": "Mumbai"
+}
+]
